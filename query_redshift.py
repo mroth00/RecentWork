@@ -1,13 +1,10 @@
 """ This script can hit our Redshift Database.
 Config File
 You must have the config file in the same folder as this script. 
-We will not be putting credentials on git.
-Please email Max Roth if you would like the config file or 
-download the file config.py and fill in the credentials.
+
 Output
 This script will save the output as data.csv file. Once you run the script, you can play with the data in
 a pandas dataframe called rows.
-Jira Tickets: DS-46
 """
 import csv
 import time
