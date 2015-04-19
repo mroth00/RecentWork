@@ -3,7 +3,6 @@ users in each test, N_A, N_B and the conversions for each test nA,nB.
 The results are then returned in an easy to understand Bayesian
 probability.
 
-Jira Tickets: DS-72,DS-116
 """
 
 import numpy as np
